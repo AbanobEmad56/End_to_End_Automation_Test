@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://app-dev.waffyapp.com",
+  "testFiles": "**/*.feature",
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false
+
+}
